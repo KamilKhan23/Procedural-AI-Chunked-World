@@ -47,7 +47,7 @@ AI enemies exhibit multi-state behavior:
 - Ensures AI remains navigable in a changing world  
 
 ###  **4. Player Controller**
-- Smooth WASD + mouse look  
+- Smooth WASD + 'O' and 'P' for player rotation 
 - Relative movement  
 - Simplified capsule-based controller  
 
@@ -70,7 +70,7 @@ AI enemies exhibit multi-state behavior:
 │── Player/ # Player controller & camera logic
 │── Enemy/ # AI behavior scripts + perception
 │── Prefabs/ # Tiles, walls, obstacles, enemies
-│── Scenes/ # Demo scene
+│── Scenes/ # Aouto_AI scene
 
 
 
