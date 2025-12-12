@@ -76,7 +76,7 @@ AI enemies exhibit multi-state behavior:
 
 ---
 
-## 🚀 How It Works (High-Level)
+##  How It Works (High-Level)
 1. The **Chunk Manager** tracks the player position.  
 2. When the player approaches the edge of the loaded area, a **new chunk** is generated.  
 3. Walls + obstacles are placed procedurally.  
@@ -116,7 +116,4 @@ LinkedIn: *[add link here](https://www.linkedin.com/in/muhammad-kamil-khan-0196a
 Email: *kamilkhan6850@gmail.com*  
 
 ---
-
-## ⭐ If you find this useful, consider starring the repo!
-
 
