@@ -1,6 +1,5 @@
-# Procedural-AI-Chunked-World
-Procedural chunk-based world generation + Runtime NavMesh + State Machine AI (Unity project).
 # Procedural Chunked Worlds + AI
+Procedural chunk-based world generation + Runtime NavMesh + State Machine AI (Unity project).
 Author: Muhammad Kamil Khan  
 
 #  Procedural AI Chunked World  
