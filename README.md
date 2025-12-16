@@ -69,7 +69,7 @@ AI enemies exhibit multi-state behavior:
 │── Player/ # Player controller & camera logic
 │── Enemy/ # AI behavior scripts + perception
 │── Prefabs/ # Tiles, walls, obstacles, enemies
-│── Scenes/ # Aouto_AI scene
+│── Scenes/ # Auto_AI scene
 
 
 
@@ -111,7 +111,7 @@ This prototype demonstrates concepts relevant to academic research in:
 BS Computer Systems Engineering – UET Peshawar  
 US Citizen • Game AI & Procedural Systems Researcher  
 
-LinkedIn: *[add link here](https://www.linkedin.com/in/muhammad-kamil-khan-0196a3271/)*  
+LinkedIn: *[https://www.linkedin.com/in/muhammad-kamil-khan-0196a3271/]*  
 Email: *kamilkhan6850@gmail.com*  
 
 ---
